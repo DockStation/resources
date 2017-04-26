@@ -1,1 +1,1 @@
-# resources
+# resources to recommended images into DockStation app
